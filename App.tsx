@@ -9,9 +9,6 @@ export default function App() {
   return (
     <View style={styles.container}>
     
-       
-      
-
    {/* <ImageBackground source={image} resizeMode="contain" style={styles.image}>
     <Text style={styles.text}>Inside</Text>
     </ImageBackground>*/}
@@ -21,9 +18,7 @@ export default function App() {
       <StatusBar style="auto" />
   </View>
   );
-
 }
-
 
 const styles = StyleSheet.create({
   container: {
